@@ -67,7 +67,6 @@ jobs:
          name: artifactjar
          path: ${{ github.workspace }}/target/${{ env.ARTIFACT_NAME }}   
 
-
 ######################################################## 
       # 5- call checksum of artifact
       ######################################################## 
